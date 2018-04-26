@@ -2,4 +2,4 @@
 repository
 
 hello,this is a test.
-I'm trying to create a brand.
+I'm trying to create a branch.
